@@ -4,4 +4,4 @@ I am a 14 year old student developer from Hungary. I have worked on multiple per
 
 ## 💻 About Me
 
-> I am a student at BMSZC Neumann János Technical Institue for Informational Technology
+🎒I am a student at BMSZC Neumann János Technical Institue for Informational Technology
