@@ -11,7 +11,7 @@ I am a 14 year old student developer from Hungary. I have worked on multiple per
 ---
 ## 🧰&nbsp; Skills
 
-<div align="center"><b>Languages</b></div>
+<div align="center", height="30px"><b>Languages</b></div>
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
