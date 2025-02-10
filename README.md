@@ -32,8 +32,3 @@ I am a 14 year old student developer from Hungary. I have worked on multiple per
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
 
-&nbsp;
-
-## Analytics
-
-[![Máté's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateHun22)](https://github.com/anuraghazra/github-readme-stats)
